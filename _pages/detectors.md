@@ -9,3 +9,12 @@ author_profile: true
 
 I also lead the design and construction of novel scientific instruments to push the boundaries of achievable experiments and study exotic radioactive ion-beams.
 
+DICE
+(BSc Project Student)
+
+TRIFIC
+(PhD Student & Junior Postdoc)
+
+SPICE
+
+TBRAGG
