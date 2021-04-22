@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Edit Test
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+About Me
+======
+I'm a nuclear physics researcher and educator, with over 10 years experience in experimental nuclear physics, currently based in Liverpool, UK. I'm originally from Oxfordshire, where I grew up in the shadow of the Rutherford Appleton Laboratory. It was during my undergraduate at the University of Birmingham, doing a project on the MC40 cyclotron, that I truly got hooked on the puzzle of nuclear physics. From there I went on to a [PhD at York](https://etheses.whiterose.ac.uk/5136/) under Charles Barton and then onto a job at JAEA in Ibaraki Japan, where I found a love of tandem accelerators, sushi and a wife. I moved on to a position at Canada's national accelerator laboratory TRIUMF in Vancouver, and completed my circumnavigation of the globe landing in Liverpool.
+
+![Picture of my dog and I in home office during lockdown](/images/AndDog1.png "Dog and I")
+
 
 A data-driven personal website
 ======
