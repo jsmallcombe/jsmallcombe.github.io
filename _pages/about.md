@@ -14,6 +14,8 @@ I'm a nuclear physics researcher and educator, with over 10 years experience in 
 
 ![Picture of my dog and I in home office during lockdown](/images/AndDog1.png "Dog and I")
 
+<img src="/images/AndDog1.png" alt="Picture of my dog and I in home office during lockdown" width="200"/>
+
 
 A data-driven personal website
 ======
