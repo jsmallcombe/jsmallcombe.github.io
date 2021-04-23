@@ -33,11 +33,11 @@ The Pin Diode Array is a low-cost scattered ion detector designed and commission
 <img src="/images/pin1.jpg" alt="The Pin Diode Array" width="500"/>
 
 **York Bragg Detector**<br>
-The York Bragg Detector is a gas filled detector for the detection and identification of scatted ions in Coulomb excitation experiments. As part of my PhD at the University of York I organised and led the commissioning of the Parallel Grid Avalanche Counter (PGAC) which mounted at the front of the detector to provide position information.<br>
+The York Bragg Detector is a gas filled detector for the detection and identification of scatted ions in Coulomb excitation experiments. As part of my PhD at the University of York I organised and led the commissioning of the Parallel Grid Avalanche Counter (PGAC) which mounts at the front of the detector to provide position information.<br>
 <img src="/images/bragg.jpg" alt="Photo of YBragg" height="400"/>
 <img src="/images/braggschem.jpg" alt="Technical drawing of YBragg" height="400"/><br>
-<img src="/images/pgac.jpg" alt="Technical drawing of YBragg" height="400"/><br>
+<img src="/images/pgac.jpg" alt="Technical drawing of YBragg" style="height:400px;"/><br>
 
-<video height="360" controls autoplay loop> 
-  <source src="files/pgac.mp4" type="video/mp4">
+<video controls autoplay loop> 
+  <source src="/files/pgac.mp4" type="video/mp4">
 </video>
