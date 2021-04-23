@@ -17,24 +17,21 @@ Education
 
 Work experience
 ======
-* Oct 2018: Research Associate
-  * University of Liverpool, UK
-    * Nuclear physics graduate student activity coordinator, including invited     * speakers, journal reviews, coding workshops etc.
-    * Undergraduate teaching (Mathematics for physicists III Course Tutor, BSc Projects Supervisor).
-    * Organiser and chair of online seminar series [lockdownseminars.co.uk](www.lockdownseminars.co.uk) international research community event through Covid-19 pandemic.
-    * Member of Department Research & Impact Board.
+* Oct 2018: Research Associate, University of Liverpool, UK
+  * Nuclear physics graduate student activity coordinator, including invited     * speakers, journal reviews, coding workshops etc.
+  * Undergraduate teaching (Mathematics for physicists III Course Tutor, BSc Projects Supervisor).
+  * Organiser and chair of online seminar series [lockdownseminars.co.uk](https://www.lockdownseminars.co.uk) international research community event through Covid-19 pandemic.
+  * Member of Department Research & Impact Board.
   * Supervisor: Prof. R. Herzberg
 
-* July 2015: Postdoctoral Research Fellow
-  * TRIUMF National Laboratory, Canada
-    * Led collaborations as spokesperson for multiple stable and radioactive ion beam experiments. Awarded beam time equivalent to $1.3M approx.
-    * Led development and commissioning of novel detectors [SPICE](https://doi.org/10.1016/j.nima.2018.07.064) and [TRIFIC](https://doi.org/10.1016/j.nima.2019.03.075) for use in radioactive ion beam physics.
-    * Supervised BSc, MSc and PhD projected students, as well as leading student activities and invited lecturing.
+* July 2015: Postdoctoral Research Fellow, TRIUMF National Laboratory, Canada
+  * Led collaborations as spokesperson for multiple stable and radioactive ion beam experiments. Awarded beam time equivalent to $1.3M approx.
+  * Led development and commissioning of novel detectors [SPICE](https://doi.org/10.1016/j.nima.2018.07.064) and [TRIFIC](https://doi.org/10.1016/j.nima.2019.03.075) for use in radioactive ion beam physics.
+  * Supervised BSc, MSc and PhD projected students, as well as leading student activities and invited lecturing.
   * Supervisor: Dr A. Garnsworthy
   
-* April 2014: Postdoctoral Research Fellow
-  * Japan Atomic Energy Agency, Japan
-    * Conducted and supported experiments at JAEA Tokai and KURRI
+* April 2014: Postdoctoral Research Fellow, Japan Atomic Energy Agency, Japan
+  * Conducted and supported experiments at JAEA Tokai and KURRI
   * Supervisor: Dr K. Nishio
 
 Skills
@@ -61,12 +58,12 @@ Experimental Highlights
 
 Key Publications
 ======
-* The TRIUMF Fast Ion Counter Aaron Chester, James Smallcombe et al. Nuc. Inst. Meth. A, 930:1-7, 2019 https://doi.org/10.1016/j.nima.2019.03.075
-* Confirming band assignments in 167Yb with gamma-gamma-electron triple-coincidence spectroscopy  J. Smallcombe et al.  Eur. Phys. J. A 55: 1, 2019 https://doi.org/10.1140/epja/i2019-12675-8
-* E0 transition strengths in 110Pd J. Smallcombe et al. Eur. Phys. J. A 54: 165, 2018 https://doi.org/10.1140/epja/i2018-12604-5
-* In-beam internal conversion electron spectroscopy with the SPICE detector, M. Moukaddama, J. Smallcombe et al. Nuc. Inst. Meth. A, 905:180-187, 2018 https://doi.org/10.1016/j.nima.2018.07.064
-* Identification of significant E0 strength in the 2+2 → 2+1 transitions of 58,60,62Ni. L.J. Evitts, A.B. Garnsworthy, T. Kib ́edi, J. Smallcombe  et al. Physics Letters B, 779;396-401, 2018 https://doi.org/10.1016/j.physletb.2018.01.076
-* Experimental investigation of the 02+  band in 154Sm as a β-vibrational band. J. Smallcombe, et al. Physics Letters B 2014; 732:161-166 https://doi.org/10.1016/j.physletb.2014.03.034
+* [The TRIUMF Fast Ion Counter Aaron Chester, James Smallcombe et al. Nuc. Inst. Meth. A, 930:1-7, 2019](https://doi.org/10.1016/j.nima.2019.03.075)
+* [Confirming band assignments in 167Yb with gamma-gamma-electron triple-coincidence spectroscopy  J. Smallcombe et al.  Eur. Phys. J. A 55: 1, 2019](https://doi.org/10.1140/epja/i2019-12675-8)
+* [E0 transition strengths in 110Pd J. Smallcombe et al. Eur. Phys. J. A 54: 165, 2018](https://doi.org/10.1140/epja/i2018-12604-5)
+* [In-beam internal conversion electron spectroscopy with the SPICE detector, M. Moukaddama, J. Smallcombe et al. Nuc. Inst. Meth. A, 905:180-187, 2018](https://doi.org/10.1016/j.nima.2018.07.064)
+* [Identification of significant E0 strength in the 2+2 → 2+1 transitions of 58,60,62Ni. L.J. Evitts, A.B. Garnsworthy, T. Kib ́edi, J. Smallcombe  et al. Physics Letters B, 779;396-401, 2018](https://doi.org/10.1016/j.physletb.2018.01.076)
+* [Experimental investigation of the 02+  band in 154Sm as a β-vibrational band. J. Smallcombe, et al. Physics Letters B 2014; 732:161-166](https://doi.org/10.1016/j.physletb.2014.03.034)
 
 Teaching Experience
 ======
@@ -86,8 +83,7 @@ Teaching Experience
 * 2010-2013 : Tutor - Newtonian Mechanics and The Physics of Matter.
 * 2009-2013 : Maths Tutor - Undergraduate problem classes and University-wide drop-in support scheme.
 
-<!-- Service and leadership -->
-Community Roles
+Community Roles<!-- Service and leadership -->
 ======
 * University of Liverpool Department of Physics Research & Impact Board member. 2020-Present
 * IOP Nuclear Physics Group Committee Member  2020-Present

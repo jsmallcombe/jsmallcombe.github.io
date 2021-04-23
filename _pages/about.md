@@ -24,6 +24,8 @@ These non-spherical shapes are only possible due to the complex interactions of 
 I conduct gamma-ray and electron spectroscopy experiments at particle accelerator laboratories around the world. In these, I measure the small energetic particles (radiation) that are emitted by nuclei when given sufficient energy by an accelerator (or when they are naturally unstable). The exact energies and patterns of the radiation enable us to "see" inside them even though they are too small to look at directly.
 I also lead the design and construction of [novel scientific instruments](https://jsmallcombe.github.io/detectors/) to push the boundaries of achievable experiments and study exotic radioactive ion-beams.
 
+<img src="/images/grif.jpg" alt="Photo of group in front of GRIFFIN" width="450"/>
+
 Science Communication
 ======
 During the uncertainty of the COVID pandemic, I took the lead to create and chair the hugely successful and internationally attended seminar series for the nucelar physics community. [The Lockdown Seminar Series](http://www.lockdownseminars.co.uk/) featured 57 high­ profile speakers from 15 countries spread over 5 continents.
