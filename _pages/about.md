@@ -37,6 +37,6 @@ I am now a member of the [IOP Nuclear Physics Group](https://www.iop.org/physics
 
 During the 2020 social distancing period I participated in two of the national [“I’m a Scientist”[(https://imascientist.org.uk/) outreach events, in which scientists answer questions from school children and members of the public. I was voted the overall winner of one of these events and am currently using the prize money to construct equipment for outreach at university open days.
 
-<img src="/images/imasci.jpeg" alt="IOP logo" width="400"/>
+<img src="/images/imasci.jpeg" alt="I'm a scientists winner banner" width="400"/>
 
 
