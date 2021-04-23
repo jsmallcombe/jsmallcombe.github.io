@@ -7,9 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<img src="/images/Emblem.png" alt="jRoot Logo" width="80"/>
-
-jRoot Analysis Tools for Spectroscopy
+<img src="/images/Emblem.png" alt="jRoot Logo" width="70"/> Analysis Tools for Spectroscopy
 ======
 The jROOT package is a plugin library for CERN's [ROOT](https://root.cern/) framework, which adds a number of useful tools and graphical user interface designed to create a environment for fast manipulation and analyse of spectroscopic data.
 The main tools are; a fitting environment specifically designed for the fitting of strongly tailed Gaussian peaks, and a gating and background subtraction tool for 2D and 3D histograms.
