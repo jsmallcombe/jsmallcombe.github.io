@@ -28,9 +28,9 @@ Using money from a [University of Liverpool School of Physical Sciences Post-doc
 **SPICE**<br>
 The SPectrometer for Internal Conversion Electrons \([SPICE](https://doi.org/10.1016/j.nima.2018.07.064)\) is detector which I commissioned for use in conjunction with the TIGRESS gamma-ray spectrometer at TRIUMF's ISAC-II facility. SPICE features a permanent rare-earth magnetic lens to collect and direct internal conversion electrons emitted from nuclear reactions to a thick, highly segmented, lithium-drifted silicon detector. This arrangement, combined with TIGRESS, enables in-beam gamma-ray and internal conversion electron spectroscopy to be performed with stable and radioactive ion beams.
 
-<img src="/images/spice1.jpg" alt="Photo of SPICE and TIGRESS" style="height:300px;"/>
-<img src="/images/spice2.jpg" alt="Photo of SPICE" style="height:300px;"/>
-<img src="/images/spice3.png" alt="Geant4 of SPICE internals" style="height:300px;"/>
+<img src="/images/spice1.jpg" alt="Photo of SPICE and TIGRESS" style="height:250px;"/>
+<img src="/images/spice2.jpg" alt="Photo of SPICE" style="height:250px;"/>
+<img src="/images/spice3.png" alt="Geant4 of SPICE internals" style="height:250px;"/>
 
 **Pin Diode Array**<br>
 The Pin Diode Array is a low-cost scattered ion detector designed and commissioned by a BSc projected student at TRIUMF under my supervision. Using off-the-shelf silicon photodiodes, as an alternative to high cost silicon strip detectors, the individual detectors elements can be swapped following experiments in which significant radiation damage results from intense ion beams.
@@ -40,8 +40,8 @@ The Pin Diode Array is a low-cost scattered ion detector designed and commission
 **York Bragg Detector**<br>
 The York Bragg Detector is a gas filled detector for the detection and identification of scatted ions in Coulomb excitation experiments. As part of my PhD at the University of York I organised and led the commissioning of the Parallel Grid Avalanche Counter (PGAC) which mounts at the front of the detector to provide position information.
 
-<img src="/images/bragg.jpg" alt="Photo of YBragg" style="height:400px;"/>
-<img src="/images/braggschem.jpg" alt="Technical drawing of YBragg" style="height:400px;"/><br>
+<img src="/images/bragg.jpg" alt="Photo of YBragg" style="height:300px;"/>
+<img src="/images/braggschem.jpg" alt="Technical drawing of YBragg" style="height:300px;"/>
 <img src="/images/pgac.jpg" alt="Technical drawing of YBragg" width="300"/>
 <video width="600" controls autoplay loop> 
   <source src="/files/pgac.mp4" type="video/mp4">
