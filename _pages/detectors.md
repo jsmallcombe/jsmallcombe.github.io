@@ -42,7 +42,7 @@ The York Bragg Detector is a gas filled detector for the detection and identific
 
 <img src="/images/bragg.jpg" alt="Photo of YBragg" style="height:300px;"/>
 <img src="/images/braggschem.jpg" alt="Technical drawing of YBragg" style="height:300px;"/>
-<img src="/images/pgac.jpg" alt="Technical drawing of YBragg" width="300"/>
+<img src="/images/pgac.jpg" alt="Technical drawing of YBragg" style="height:300px;"/>
 <video width="600" controls autoplay loop> 
   <source src="/files/pgac.mp4" type="video/mp4">
 </video>
