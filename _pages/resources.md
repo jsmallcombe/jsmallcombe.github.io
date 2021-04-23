@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-<img src="/images/Emblem.png" alt="jRoot Logo" width="70"/> Analysis Tools for Spectroscopy
+<br>
+
+<img src="/images/Emblem.png" alt="jRoot Logo" width="80"/> Analysis Tools for Spectroscopy
 ======
 The jROOT package is a plugin library for CERN's [ROOT](https://root.cern/) framework, which adds a number of useful tools and graphical user interface designed to create a environment for fast manipulation and analyse of spectroscopic data.
 The main tools are; a fitting environment specifically designed for the fitting of strongly tailed Gaussian peaks, and a gating and background subtraction tool for 2D and 3D histograms.
@@ -27,7 +29,7 @@ Students should be able to work through the exercise book at their own pace, wit
 Instructor files are also provided, so that a teacher who has some familiarity with ROOT may provide a brief introductory lecture to the early concepts and provide solutions to struggling students.
 The course files can be [downloaded here](/files/ROOT_Intro.zip)
 
-The course is written to avoid heavy reliance on previous knowledge of C++. However, for students with limited coding experience an explicit introduction to C++ may be necessary. This [C++ introduction](/files/C++Intro.zip). may be useful for this purpose.
+The course is written so as to avoid heavy reliance on previous knowledge of C++. However, for students with limited coding experience an explicit introduction to C++ may be necessary. [This C++ introduction](/files/C++Intro.zip) may be useful for this purpose.
 
 SPUWU Spreadsheet
 ======
