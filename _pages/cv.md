@@ -17,15 +17,21 @@ Education
 
 Work experience
 ======
+* Mar 2022: JSPS EYR Fellow - June 2025: Assistant Principal Research, JAEA, Japan
+  * Project manager for JSPS Leading Initiative for Excellent Young Researchers and JSPS Kakenhi research project
+    * Equipment design, testing and impimentation.
+    * Scientific proposal cordinatior.
+    * Conduct, analyse and publish experiments.
 * Oct 2018: Research Associate, University of Liverpool, UK
-  * Nuclear physics graduate student activity coordinator, including invited     * speakers, journal reviews, coding workshops etc.
+  * Nuclear physics graduate student activity coordinator,
+    * invited speakers, journal reviews, coding workshops etc.
   * Undergraduate teaching (Mathematics for physicists III Course Tutor, BSc Projects Supervisor).
   * Organiser and chair of online seminar series [lockdownseminars.co.uk](https://www.lockdownseminars.co.uk) international research community event through Covid-19 pandemic.
   * Member of Department Research & Impact Board.
   * Supervisor: Prof. R. Herzberg
 
 * July 2015: Postdoctoral Research Fellow, TRIUMF National Laboratory, Canada
-  * Led collaborations as spokesperson for multiple stable and radioactive ion beam experiments. Awarded beam time equivalent to $1.3M approx.
+  * Led collaborations as spokesperson for multiple stable and radioactive ion beam experiments. Awarded beam time equivalent to $1M approx.
   * Led development and commissioning of novel detectors [SPICE](https://doi.org/10.1016/j.nima.2018.07.064) and [TRIFIC](https://doi.org/10.1016/j.nima.2019.03.075) for use in radioactive ion beam physics.
   * Supervised BSc, MSc and PhD projected students, as well as leading student activities and invited lecturing.
   * Supervisor: Dr A. Garnsworthy
